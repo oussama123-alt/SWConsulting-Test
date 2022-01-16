@@ -1,6 +1,6 @@
 
 # SWConsulting-Test
-test technique de SwConsulting  avec Laravel +mysql
+test technique de SwConsulting  avec Laravel +mysql + vlade+ bootstrap
 
  backend: cette test a été réalise avec le framework laravel pour le partie backend ,
  
