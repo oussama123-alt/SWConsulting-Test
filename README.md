@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -64,3 +65,28 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# SWConsulting-Test
+test technique de SwConsulting  avec Laravel +mysql
+
+ backend: cette test a été réalise avec le framework laravel pour le partie ,
+ frontend : blade + Bootstrap,
+ base de données mysql,
+ 
+# requirement:
+php7.4
+laravel 8
+base de données mysql
+ 
+# how to install:
+1-cloner cette repository dans votre machine,
+2-run composer install,
+3-changer le nom/usernme/password de base de données  dans le fichier .env,
+4-run command "php artisan migrate" pour crées les tables dans le base de données.
+5- open http://127.0.0.1:8000/ in your browser and see the work,
+
+
+
+
+ 
+>>>>>>> e120897f4ec9b8d5698d653a33f9feda2db196f2
