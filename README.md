@@ -18,8 +18,3 @@ base de données mysql
 4-run command "php artisan migrate" pour crées les tables dans le base de données.
 5- open http://127.0.0.1:8000/ in your browser and see the work,
 
-
-
-
- 
->>>>>>> e120897f4ec9b8d5698d653a33f9feda2db196f2
