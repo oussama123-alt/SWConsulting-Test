@@ -13,8 +13,12 @@ base de données mysql
  
 # how to install:
 1-cloner cette repository dans votre machine,
+
 2-run composer install,
+
 3-changer le nom/usernme/password de base de données  dans le fichier .env,
+
 4-run command "php artisan migrate" pour crées les tables dans le base de données.
+
 5- open http://127.0.0.1:8000/ in your browser and see the work,
 
