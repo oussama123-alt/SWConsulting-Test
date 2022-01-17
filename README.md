@@ -22,5 +22,5 @@ base de données mysql
 
 4-run command "php artisan migrate" pour crées les tables dans le base de données.
 
-5- open http://127.0.0.1:8000/ in your browser and see the work,
+5- run " php artisan serve" and open http://127.0.0.1:8000/ in your browser and see the work,
 
